@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Checksum: gid2on3dpCAbTZjmVICbPQ
+! Expires: 5 days
+! Version: 201411032347
+! Stuff comments
+stuff.co.nz##a[name="comments"]
+stuff.co.nz##div#commentsDiv
+! New Zealand Herald comments
+nzherald.co.nz##div.commentsSection
+nzherald.co.nz##form#comment-form
+
