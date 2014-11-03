@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oN5+Dx/CWYkhz3Yty50WPQ
+! Checksum: yMSoozh0ojVbxDIiIixERw
 ! Expires: 5 days
-! Version: 201411040011
+! Version: 201411040019
 ! Homepage: https://github.com/codyharrington/nznewscommentsblocker
 ! Stuff comments
 stuff.co.nz##a[name="comments"]
@@ -10,6 +10,4 @@ stuff.co.nz##div#commentsDiv
 nzherald.co.nz##div.commentsSection
 nzherald.co.nz##form#comment-form
 ! 3news comments
-3news.co.nz##header#main-nav
-3news.co.nz##section#conversation
-3news.co.nz##a[data-nav="conversation"]
+3news.co.nz##div#layout
