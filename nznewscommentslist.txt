@@ -8,4 +8,3 @@ stuff.co.nz##div#commentsDiv
 ! New Zealand Herald comments
 nzherald.co.nz##div.commentsSection
 nzherald.co.nz##form#comment-form
-
